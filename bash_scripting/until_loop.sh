@@ -1,9 +1,9 @@
 #!/bin/bash
 
-until [[ $girlfriend == "lermique" ]]
+until [[ $girl == "lermique" ]]
 do 
-   echo "Who Are You In Like With?"
-   read girlfriend
+   echo "So who's the girl you're in like with?"
+   read girl
 done 
 
 echo "Too Bad To SAD she does not like you:("
